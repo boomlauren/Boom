@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../bluetooth files/UpConstruction"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FestHomes Inc Project"
+	}
+}
